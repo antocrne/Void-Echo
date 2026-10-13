@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Shown by macOS the first time Void Echo opens the camera (preview before a meeting, then the meeting itself). -->
+	<key>NSCameraUsageDescription</key>
+	<string>Void Echo utilise la caméra pour l'aperçu avant une réunion et pour vous montrer aux autres participants. L'image n'est envoyée qu'aux personnes de la réunion, et seulement quand la caméra est allumée.</string>
+	<!-- Shown by macOS the first time Void Echo opens the microphone. -->
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Void Echo utilise le micro pour que les participants de la réunion vous entendent, et pour vérifier le niveau sonore avant d'entrer. Rien n'est enregistré.</string>
+</dict>
+</plist>
